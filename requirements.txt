@@ -9,7 +9,7 @@ local_attention
 matplotlib
 numpy
 praat-parselmouth
-pyworld
+pyworld==0.3.2
 PyYAML
 resampy
 scikit_learn
